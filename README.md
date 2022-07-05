@@ -3,7 +3,6 @@
   <a href="https://github.com/MatheusFranzener">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusFranzener&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusFranzener&layout=compact&langs_count=7&theme=dracula"/>
-### Linguagens que sei 😲
     <div align="center">
       <code><img alt="Angular" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></code>
       <code><img alt="React" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></code>
