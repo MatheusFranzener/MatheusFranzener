@@ -1,8 +1,8 @@
 # 👋 Hey there!
 
 - Matheus Franzener Hohmann - 18 anos.
-- Desenvolvimento de Sistemas - SESI/SENAI - 2020 - 2022.
-- Aprendiz de Programador de Sistemas de Informação - WEG - 2021 -2023.
+- Desenvolvimento de Sistemas - SESI/SENAI.
+- Aprendiz de Programador de Sistemas de Informação - WEG - 2021 - 2023.
 
 ##
 
