@@ -3,6 +3,7 @@
 - Matheus Franzener Hohmann - 18 anos.
 - Técnico em Desenvolvimento de Sistemas - SESI/SENAI.
 - Aprendiz de Programador de Sistemas de Informação - WEG.
+- ADS - Católica de Santa Catarina - 2023 - 2025
 
 ##
 
